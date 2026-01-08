@@ -1,4 +1,4 @@
-1. Introduc on 
+1. Introduction 
 This document explains how to use the Dynamic Drill-down Sales Dashboard created in 
 Power BI Desktop. 
 The dashboard provides interac ve sales analysis with the ability to: 
@@ -7,11 +7,11 @@ The dashboard provides interac ve sales analysis with the ability to:
  View rolling average sales trends 
  Dynamically filter data using slicers 
 2. Data Source 
-The dashboard is built using sales data imported from mul ple Excel/CSV files, including: 
+The dashboard is built using sales data imported from multiple Excel/CSV files, including: 
  Orders and order details 
- Product and product category informa on 
+ Product and product category information 
  Customer and regional (office) data 
-These datasets are combined using proper rela onships to form a structured data model in 
+These datasets are combined using proper relationships to form a structured data model in 
 Power BI. 
 3. Dashboard Overview 
 The dashboard consists of the following key visualiza ons: 
@@ -52,8 +52,7 @@ Calculates total revenue based on quan ty and unit price.
 Compares current year sales with the previous year to measure growth percentage. 
 5.3 Rolling 3-Month Average Sales 
 Calculates the average sales over the last three months to iden fy trends and smooth 
-f
-luctua ons. 
+fluctuations. 
 These measures update dynamically based on slicers and drill-down levels. 
 6. Interac vity Features 
  All visuals are interconnected 
@@ -65,7 +64,7 @@ This dashboard is designed to:
  Support business decision-making 
  Analyze sales performance over me 
  Iden fy regional and product-level trends 
- Demonstrate Power BI capabili es such as data modeling, DAX, and interac vity 
+ Demonstrate Power BI capabilities such as data modeling, DAX, and interactivity 
 8. Conclusion 
 The Dynamic Drill-down Dashboard provides a comprehensive and interac ve way to analyze 
 sales data using Power BI. By leveraging drill-down, slicers, and custom DAX measures, users 
